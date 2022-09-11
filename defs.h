@@ -10,7 +10,9 @@
 #include <algorithm>
 #include <utility>
 #include <stack>
+#include <list>
 #include <queue>
+#include <math.h>
 
 using namespace std;
 
